@@ -9,3 +9,15 @@ C:\Users\User\Documents\מחברות כיתה יא\מדעי המחשב\10 points
 C:\Users\User\Documents\מחברות כיתה יא\מדעי המחשב\10 points projects\card against humanity Project\card against humanity Project\obj\Debug\card against humanity Project.exe
 C:\Users\User\Documents\מחברות כיתה יא\מדעי המחשב\10 points projects\card against humanity Project\card against humanity Project\obj\Debug\card against humanity Project.pdb
 C:\Users\User\Documents\מחברות כיתה יא\מדעי המחשב\10 points projects\card against humanity Project\card against humanity Project\obj\Debug\card_against_humanity_Project.Game.resources
+C:\My Projects\PRO250\PRO250GroupProject\card against humanity Project\bin\Debug\card against humanity Project.exe.config
+C:\My Projects\PRO250\PRO250GroupProject\card against humanity Project\bin\Debug\card against humanity Project.exe
+C:\My Projects\PRO250\PRO250GroupProject\card against humanity Project\bin\Debug\card against humanity Project.pdb
+C:\My Projects\PRO250\PRO250GroupProject\card against humanity Project\obj\Debug\card against humanity Project.csproj.AssemblyReference.cache
+C:\My Projects\PRO250\PRO250GroupProject\card against humanity Project\obj\Debug\card against humanity Project.csproj.SuggestedBindingRedirects.cache
+C:\My Projects\PRO250\PRO250GroupProject\card against humanity Project\obj\Debug\card_against_humanity_Project.Miki_and_Lior.resources
+C:\My Projects\PRO250\PRO250GroupProject\card against humanity Project\obj\Debug\card_against_humanity_Project.Game.resources
+C:\My Projects\PRO250\PRO250GroupProject\card against humanity Project\obj\Debug\card_against_humanity_Project.Properties.Resources.resources
+C:\My Projects\PRO250\PRO250GroupProject\card against humanity Project\obj\Debug\card against humanity Project.csproj.GenerateResource.cache
+C:\My Projects\PRO250\PRO250GroupProject\card against humanity Project\obj\Debug\card against humanity Project.csproj.CoreCompileInputs.cache
+C:\My Projects\PRO250\PRO250GroupProject\card against humanity Project\obj\Debug\card against humanity Project.exe
+C:\My Projects\PRO250\PRO250GroupProject\card against humanity Project\obj\Debug\card against humanity Project.pdb
