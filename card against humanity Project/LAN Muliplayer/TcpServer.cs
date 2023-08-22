@@ -26,7 +26,7 @@ namespace card_against_humanity_Project.LAN_Muliplayer
             byte[] buffer = new byte[256];
             string recievedMessage;
 
-            using TcpClient clinet = _listener.AcceptTcpClient();
+            TcpClient clinet = _listener.AcceptTcpClient();
 
             var tcpStream = clinet.GetStream();
 
@@ -36,6 +36,7 @@ namespace card_against_humanity_Project.LAN_Muliplayer
             {
                 string incomingMessage = Encoding.UTF8.GetString(buffer, 0, buffer.Length);
             }
+            clinet.Close();
         }
 
 
