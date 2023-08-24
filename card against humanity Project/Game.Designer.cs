@@ -99,10 +99,10 @@
             this.listBox2.ForeColor = System.Drawing.Color.Black;
             this.listBox2.FormattingEnabled = true;
             this.listBox2.ItemHeight = 25;
-            this.listBox2.Location = new System.Drawing.Point(657, 58);
+            this.listBox2.Location = new System.Drawing.Point(643, 8);
             this.listBox2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.listBox2.Name = "listBox2";
-            this.listBox2.Size = new System.Drawing.Size(841, 579);
+            this.listBox2.Size = new System.Drawing.Size(855, 629);
             this.listBox2.TabIndex = 5;
             this.listBox2.Visible = false;
             this.listBox2.MouseDoubleClick += new System.Windows.Forms.MouseEventHandler(this.ListBox2_MouseDoubleClick);
@@ -173,10 +173,10 @@
             // pictureBox4
             // 
             this.pictureBox4.BackColor = System.Drawing.Color.White;
-            this.pictureBox4.Location = new System.Drawing.Point(658, 18);
+            this.pictureBox4.Location = new System.Drawing.Point(643, 8);
             this.pictureBox4.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(843, 637);
+            this.pictureBox4.Size = new System.Drawing.Size(858, 637);
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox4.TabIndex = 12;
             this.pictureBox4.TabStop = false;
