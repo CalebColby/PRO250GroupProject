@@ -21,3 +21,15 @@ C:\My Projects\PRO250\PRO250GroupProject\card against humanity Project\obj\Debug
 C:\My Projects\PRO250\PRO250GroupProject\card against humanity Project\obj\Debug\card against humanity Project.csproj.CoreCompileInputs.cache
 C:\My Projects\PRO250\PRO250GroupProject\card against humanity Project\obj\Debug\card against humanity Project.exe
 C:\My Projects\PRO250\PRO250GroupProject\card against humanity Project\obj\Debug\card against humanity Project.pdb
+C:\Users\jbrickwedde\Documents\GitProj\PRO250GroupProject\card against humanity Project\bin\Debug\card against humanity Project.exe.config
+C:\Users\jbrickwedde\Documents\GitProj\PRO250GroupProject\card against humanity Project\bin\Debug\card against humanity Project.exe
+C:\Users\jbrickwedde\Documents\GitProj\PRO250GroupProject\card against humanity Project\bin\Debug\card against humanity Project.pdb
+C:\Users\jbrickwedde\Documents\GitProj\PRO250GroupProject\card against humanity Project\obj\Debug\card against humanity Project.csproj.AssemblyReference.cache
+C:\Users\jbrickwedde\Documents\GitProj\PRO250GroupProject\card against humanity Project\obj\Debug\card against humanity Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\jbrickwedde\Documents\GitProj\PRO250GroupProject\card against humanity Project\obj\Debug\card_against_humanity_Project.Miki_and_Lior.resources
+C:\Users\jbrickwedde\Documents\GitProj\PRO250GroupProject\card against humanity Project\obj\Debug\card_against_humanity_Project.Game.resources
+C:\Users\jbrickwedde\Documents\GitProj\PRO250GroupProject\card against humanity Project\obj\Debug\card_against_humanity_Project.Properties.Resources.resources
+C:\Users\jbrickwedde\Documents\GitProj\PRO250GroupProject\card against humanity Project\obj\Debug\card against humanity Project.csproj.GenerateResource.cache
+C:\Users\jbrickwedde\Documents\GitProj\PRO250GroupProject\card against humanity Project\obj\Debug\card against humanity Project.csproj.CoreCompileInputs.cache
+C:\Users\jbrickwedde\Documents\GitProj\PRO250GroupProject\card against humanity Project\obj\Debug\card against humanity Project.exe
+C:\Users\jbrickwedde\Documents\GitProj\PRO250GroupProject\card against humanity Project\obj\Debug\card against humanity Project.pdb

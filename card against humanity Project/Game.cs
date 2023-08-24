@@ -179,5 +179,24 @@ namespace card_against_humanity_Project
                 button1.Text = "Winner";
             }            
         }
+
+        private void SepHands()
+        {
+            if (button2.Text == "Player 1: " + p1)
+            {
+
+
+
+            }
+            else if (button3.Text == "Player 2: " + p1)
+            {
+
+            }
+            else if (button4.Text == "Player 3: " + p1)
+            {
+
+            }
+        }
+
     }
 }
