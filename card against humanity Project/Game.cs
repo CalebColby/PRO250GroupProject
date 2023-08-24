@@ -49,6 +49,7 @@ namespace card_against_humanity_Project
             Console.WriteLine((lines[0]));
             Console.ReadLine(); */
             addCards(Whiteklines, 15,ls);
+            //SepHands();
         }
         //set random question from text file 
         private void BlackCard(string[] lines){
@@ -72,7 +73,8 @@ namespace card_against_humanity_Project
         }
         private void ListBox1_MouseDoubleClick(object sender, MouseEventArgs e)
         {
-             String[] whiteboi = Properties.Resources.WhiteSen.Split(new[] { Environment.NewLine }, StringSplitOptions.None); 
+            List<string> ls = new List<string>();
+            String[] whiteboi = Properties.Resources.WhiteSen.Split(new[] { Environment.NewLine }, StringSplitOptions.None); 
             //Find index and value of selected item 
             int index = this.listBox1.IndexFromPoint(e.Location);
             if (index != System.Windows.Forms.ListBox.NoMatches)
@@ -100,8 +102,7 @@ namespace card_against_humanity_Project
                 {
                     ///Insert new items 
                     listBox1.Items.Insert(index, whiteboi[rnd.Next(0, whiteboi.Length)]);
-                    listBox1.Items.Insert(findex, whiteboi[rnd.Next(0, whiteboi.Length)]);
-                    listBox1.Items.Insert(sindex, whiteboi[rnd.Next(0, whiteboi.Length)]);
+
 
                     //Hide listbox1 
                     listBox1.Hide();
@@ -113,6 +114,8 @@ namespace card_against_humanity_Project
                     }
                     
                     //reset values 
+                    listBox1.Items.Clear();
+                    addCards(whiteboi, 15, ls);
                     lest.Clear();
                     count = 0;
                     findex = 0;
@@ -182,19 +185,37 @@ namespace card_against_humanity_Project
 
         private void SepHands()
         {
+            var Whiteklines1 = Properties.Resources.WhiteSen.Split(new[] { Environment.NewLine }, StringSplitOptions.None);
+            var Whiteklines2 = Properties.Resources.WhiteSen.Split(new[] { Environment.NewLine }, StringSplitOptions.None);
+            var Whiteklines3 = Properties.Resources.WhiteSen.Split(new[] { Environment.NewLine }, StringSplitOptions.None);
+            var Whiteklines4 = Properties.Resources.WhiteSen.Split(new[] { Environment.NewLine }, StringSplitOptions.None);
+            List<string> ls1 = new List<string>();
+            List<string> ls2 = new List<string>();
+            List<string> ls3 = new List<string>();
+            List<string> ls4 = new List<string>();
+
+            addCards(Whiteklines1, 15, ls1);
+
             if (button2.Text == "Player 1: " + p1)
             {
-
-
+                listBox2.Items.Clear();
+                listBox2.Hide();
+                listBox1.Show();
+                addCards(Whiteklines2, 15, ls2);
 
             }
             else if (button3.Text == "Player 2: " + p1)
             {
-
+                listBox2.Items.Clear();
+                listBox2.Hide();
+                listBox1.Show();
+                addCards(Whiteklines3, 15, ls3);
             }
             else if (button4.Text == "Player 3: " + p1)
             {
-
+                listBox2.Items.Clear();
+                listBox2.Hide();
+                listBox1.Show();
             }
         }
 
