@@ -91,11 +91,15 @@ namespace card_against_humanity_Project
                 if (count == 1)
                 {
                     findex = index;
+                    listBox1.Items.Clear();
+                    addCards(whiteboi, 15, ls);
                 }
 
                 else if(count == 2)
                 {
                     sindex = index;
+                    listBox1.Items.Clear();
+                    addCards(whiteboi, 15, ls);
                 }
 
                 if (count == 3)
@@ -185,6 +189,8 @@ namespace card_against_humanity_Project
 
         private void SepHands()
         {
+
+            //baka
             var Whiteklines1 = Properties.Resources.WhiteSen.Split(new[] { Environment.NewLine }, StringSplitOptions.None);
             var Whiteklines2 = Properties.Resources.WhiteSen.Split(new[] { Environment.NewLine }, StringSplitOptions.None);
             var Whiteklines3 = Properties.Resources.WhiteSen.Split(new[] { Environment.NewLine }, StringSplitOptions.None);
@@ -204,18 +210,19 @@ namespace card_against_humanity_Project
                 addCards(Whiteklines2, 15, ls2);
 
             }
-            else if (button3.Text == "Player 2: " + p1)
+            else if (button3.Text == "Player 2: " + p2)
             {
                 listBox2.Items.Clear();
                 listBox2.Hide();
                 listBox1.Show();
                 addCards(Whiteklines3, 15, ls3);
             }
-            else if (button4.Text == "Player 3: " + p1)
+            else if (button4.Text == "Player 3: " + p3)
             {
                 listBox2.Items.Clear();
                 listBox2.Hide();
                 listBox1.Show();
+                addCards(Whiteklines4, 15, ls4);
             }
         }
 
