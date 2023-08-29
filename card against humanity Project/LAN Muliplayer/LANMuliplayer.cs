@@ -17,5 +17,7 @@ namespace card_against_humanity_Project.LAN_Muliplayer
     public class LANMultiplayerGuest
     {
         public IPAddress me { get; private set; }
+
+
     }
 }
