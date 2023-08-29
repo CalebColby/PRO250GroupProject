@@ -3,6 +3,5 @@
     public class GameData
     {
         public int Id { get; set; }
-
     }
 }
