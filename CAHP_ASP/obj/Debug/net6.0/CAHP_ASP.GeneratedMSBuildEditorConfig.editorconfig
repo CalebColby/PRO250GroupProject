@@ -16,17 +16,12 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Neumont\Q8\ExistingCode\PRO250GroupProject\CAHP_ASP
 build_property._RazorSourceGeneratorDebug = 
 
-<<<<<<< Updated upstream
-[C:/Users/jbursi/Desktop/Neumont/Year 2/Q4/PRO250/PRO250GroupProject/CAHP_ASP/Views/Game/Game.cshtml]
+[C:/Neumont/Q8/ExistingCode/PRO250GroupProject/CAHP_ASP/Views/Game/Game.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVxHYW1lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jbursi/Desktop/Neumont/Year 2/Q4/PRO250/PRO250GroupProject/CAHP_ASP/Views/Game/Lobby.cshtml]
+[C:/Neumont/Q8/ExistingCode/PRO250GroupProject/CAHP_ASP/Views/Game/Lobby.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVxMb2JieS5jc2h0bWw=
-=======
-[C:/Neumont/Q8/ExistingCode/PRO250GroupProject/CAHP_ASP/Views/Game/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVxJbmRleC5jc2h0bWw=
->>>>>>> Stashed changes
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Neumont/Q8/ExistingCode/PRO250GroupProject/CAHP_ASP/Views/Home/Index.cshtml]
