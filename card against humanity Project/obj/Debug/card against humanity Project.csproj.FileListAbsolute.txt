@@ -45,3 +45,15 @@ C:\Neumont\Q8\ExistingCode\PRO250GroupProject\card against humanity Project\obj\
 C:\Neumont\Q8\ExistingCode\PRO250GroupProject\card against humanity Project\obj\Debug\card against humanity Project.csproj.CoreCompileInputs.cache
 C:\Neumont\Q8\ExistingCode\PRO250GroupProject\card against humanity Project\obj\Debug\card against humanity Project.exe
 C:\Neumont\Q8\ExistingCode\PRO250GroupProject\card against humanity Project\obj\Debug\card against humanity Project.pdb
+C:\Users\jbursi\Desktop\Neumont\Year 2\Q4\PRO250\PRO250GroupProject\card against humanity Project\bin\Debug\card against humanity Project.exe.config
+C:\Users\jbursi\Desktop\Neumont\Year 2\Q4\PRO250\PRO250GroupProject\card against humanity Project\bin\Debug\card against humanity Project.exe
+C:\Users\jbursi\Desktop\Neumont\Year 2\Q4\PRO250\PRO250GroupProject\card against humanity Project\bin\Debug\card against humanity Project.pdb
+C:\Users\jbursi\Desktop\Neumont\Year 2\Q4\PRO250\PRO250GroupProject\card against humanity Project\obj\Debug\card against humanity Project.csproj.AssemblyReference.cache
+C:\Users\jbursi\Desktop\Neumont\Year 2\Q4\PRO250\PRO250GroupProject\card against humanity Project\obj\Debug\card against humanity Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\jbursi\Desktop\Neumont\Year 2\Q4\PRO250\PRO250GroupProject\card against humanity Project\obj\Debug\card_against_humanity_Project.Miki_and_Lior.resources
+C:\Users\jbursi\Desktop\Neumont\Year 2\Q4\PRO250\PRO250GroupProject\card against humanity Project\obj\Debug\card_against_humanity_Project.Game.resources
+C:\Users\jbursi\Desktop\Neumont\Year 2\Q4\PRO250\PRO250GroupProject\card against humanity Project\obj\Debug\card_against_humanity_Project.Properties.Resources.resources
+C:\Users\jbursi\Desktop\Neumont\Year 2\Q4\PRO250\PRO250GroupProject\card against humanity Project\obj\Debug\card against humanity Project.csproj.GenerateResource.cache
+C:\Users\jbursi\Desktop\Neumont\Year 2\Q4\PRO250\PRO250GroupProject\card against humanity Project\obj\Debug\card against humanity Project.csproj.CoreCompileInputs.cache
+C:\Users\jbursi\Desktop\Neumont\Year 2\Q4\PRO250\PRO250GroupProject\card against humanity Project\obj\Debug\card against humanity Project.exe
+C:\Users\jbursi\Desktop\Neumont\Year 2\Q4\PRO250\PRO250GroupProject\card against humanity Project\obj\Debug\card against humanity Project.pdb

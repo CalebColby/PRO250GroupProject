@@ -59,7 +59,6 @@
       <DependentUpon>Game.cs</DependentUpon>
     </Compile>
     <Compile Include="LAN Muliplayer\LANMuliplayer.cs" />
-    <Compile Include="LAN Muliplayer\TcpServer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">

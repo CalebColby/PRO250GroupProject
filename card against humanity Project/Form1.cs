@@ -20,6 +20,7 @@ namespace card_against_humanity_Project
         {
             Game g = new Game();
             g.Show();
+            this.Hide();
         }
     }
 }

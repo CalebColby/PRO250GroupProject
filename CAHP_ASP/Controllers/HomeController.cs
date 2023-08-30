@@ -18,6 +18,11 @@ namespace CAHP_ASP.Controllers
             return View();
         }
 
+        public IActionResult GoToLobby()
+        {
+            return Redirect("Game/Lobby");
+        }
+
         public IActionResult Privacy()
         {
             return View();
