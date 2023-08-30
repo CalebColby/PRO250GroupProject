@@ -1,7 +1,23 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Game - Cards Against Humanity";
 }
 
 <div class="text-center">
     <h1>Welcome to the Game Lobby</h1>
+    <form asp-controller="Game" asp-action="Lobby">
+        <button type="submit">Reload Page</button>
+    </form>
+    <p>--------------------------------------------------------------</p>
+    <form>
+        <button type="submit">Start Game</button>
+    </form>
+    <p>--------------------------------------------------------------</p>
+    <p>Current Players:</p>
+
+    @{
+        foreach(Player player in @Model.Players)
+        {
+            <p>@player.Name</p>
+        }
+    }
 </div>
